@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tags-js",
+    "path": "/tags/github-pages/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2022-10-02--netlify-to-github-pages/__template/"},"frontmatter":{"title":"NetlifyからGithub Pagesに移行した","date":"October 02, 2022"}}}]}},"pageContext":{"tag":"Github Pages"}},
+    "staticQueryHashes": ["2478211480"]}
