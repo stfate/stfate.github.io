@@ -9,5 +9,4 @@ if [ $# -ne 1 ]; then
     exit 1
 fi
 
-cd content/posts
 cp -r __template content/blog/$1
