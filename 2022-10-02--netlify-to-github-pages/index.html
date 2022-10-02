@@ -36,7 +36,7 @@ th,tr,td {line-height: 1.0em !important;}
 <p><code class="language-text">Settings->Pages->Custom domain</code>にドメインのURLを指定する．</p>
 <h2>3. Gatsby.jsのコードデプロイ</h2>
 <div class="gatsby-highlight" data-language="sh"><pre class="language-sh"><code class="language-sh">gatsby build --prefix-paths</code></pre></div>
-<p>ビルド用のコードとデプロイ用のコードを分けるには<a href="https://www.npmjs.com/package/gh-pages">gh-pages</a>が便利．</p>
+<p>ビルド用のコードとデプロイ用のブランチを分けるには<a href="https://www.npmjs.com/package/gh-pages">gh-pages</a>が便利．</p>
 <div class="gatsby-highlight" data-language="sh"><pre class="language-sh"><code class="language-sh">npm install gh-pages --save-dev</code></pre></div>
 <div class="gatsby-highlight" data-language="sh"><pre class="language-sh"><code class="language-sh">gh-pages -d public</code></pre></div>
 <p>これを実行すると<code class="language-text">public</code>ディレクトリの内容が<code class="language-text">gh-pages</code>ブランチにuploadされる．
@@ -50,6 +50,7 @@ th,tr,td {line-height: 1.0em !important;}
 </ul>
 </li>
 </ul>
+<p>Netlifyよりは速くなった．</p>
 <h1>参考文献</h1>
 <ul>
 <li><a href="https://docs.github.com/ja/pages">Github Pages document</a></li>
