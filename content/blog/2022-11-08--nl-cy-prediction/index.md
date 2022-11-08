@@ -2,7 +2,7 @@
 title: "セイバー指標で見る2022NL Cy Young賞見通し"
 path: "/posts/2022-11-08--nl-cy-prediction"
 date: "2022-11-08"
-img: "no-image.png"
+img: "cover.png"
 author: "stfate"
 description: ""
 tags: []
@@ -42,7 +42,7 @@ Aaron NolaやCarlos Rodónのほうが残るかと予想していました。
 
 Alcantara, Fried, Uriasの主要指標の比較表を以下に掲載します。
 
-![](./stats_table.png)
+<img src="./stats_table.png" width=70%>
 
 ここから見える3人の特徴を列挙していきましょう。
 
@@ -57,8 +57,8 @@ Alcantara, Fried, Uriasの主要指標の比較表を以下に掲載します。
 
 ## Max Fried
 
-- Barrel%とBB%の低さが突出。「ホームラン性の打球を打たれず、四球も出さない」エースの投球。
-- FIP,xFIPなどdefense-independentな指標がトップのものが多い。「ホームラン/三振/四球」の観点からは最も優れていると言っていいだろう
+- Barrel%とBB%の低さが突出。「**ホームラン性の打球を打たれず、四球も出さない**」エースの投球。
+- **FIP,xFIPなどfielding-independentな指標がトップのものが多い**。「ホームラン/三振/四球」の観点からは最も優れていると言っていいだろう
 - LOB％とBABIPが悪い(特にBABIP)。守備や運の要素でERAが悪化している可能性がある
   - それでも2.48という十分以上に高水準なERAに抑えているのは流石
 - Alcantaraには負けているものの、fWAR,bWARともに高水準
@@ -68,7 +68,7 @@ Alcantara, Fried, Uriasの主要指標の比較表を以下に掲載します。
 
 - ERAが突出(NLトップ)
 - FIP/xFIPは残り2人よりもかなり悪い
-- BABIP,LOB%がかなり良い(Friedと真逆)
+- **BABIP,LOB%がかなり良い**(Friedと真逆)
   - ERAが低い最大の理由と考えられる。
   - LADの投手は数年単位でこの傾向があり、走者を出しても失点しない特徴が際立っている
 - HardHit%も3人中トップ
@@ -80,9 +80,17 @@ Alcantara, Fried, Uriasの主要指標の比較表を以下に掲載します。
 
 3人のStatcastのデータも貼っておきましょう。
 
-![](./20221108SandyAlcantaraStatcast.png)
-![](./20221108MaxFriedStatcast.png)
-![](./20221108JulioUriasStatcast.png)
+## Sandy Alcantara
+
+<img src="./20221108SandyAlcantaraStatcast.png" width=100%>
+
+## Max Fried
+
+<img src="./20221108MaxFriedStatcast.png" width=100%>
+
+## Julio Urias
+
+<img src="./20221108JulioUriasStatcast.png" width=100%>
 
 FriedはBarrel%,BB%,HardHit%の優秀さが、UriasはHardHit%とFastball Spinの優秀さが際立っていますね。
 Alcantaraは速球の球速と総合力という感じ。
