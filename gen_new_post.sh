@@ -9,4 +9,5 @@ if [ $# -ne 1 ]; then
     exit 1
 fi
 
-cp -r __template content/blog/$1
+mkdir -p content/blog/$1
+cp -r __template/* content/blog/$1

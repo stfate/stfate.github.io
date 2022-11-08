@@ -58,7 +58,7 @@ ALIASとかAとかAAAAでDNSレコード設定する．
 gatsby build --prefix-paths
 ```
 
-ビルド用のコードとデプロイ用のコードを分けるには[gh-pages](https://www.npmjs.com/package/gh-pages)が便利．
+ビルド用のコードとデプロイ用のブランチを分けるには[gh-pages](https://www.npmjs.com/package/gh-pages)が便利．
 
 ```sh
 npm install gh-pages --save-dev
@@ -72,6 +72,12 @@ gh-pages -d public
 
 
 # 移行の効果
+
+- build&deploy時間
+  - `gatsby build --prefix-paths`: 9分45秒
+  - `gh-pages -d public`: 1分52秒
+
+Netlifyよりは速くなった．
 
 
 # 参考文献
