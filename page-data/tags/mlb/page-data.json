@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-templates-tags-js",
     "path": "/tags/mlb/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"fields":{"slug":"/2021-04-01--los-angeles-dodgers-2021-preview/"},"frontmatter":{"title":"MLB2021シーズンプレビュー - Los Angeles Dodgers編","date":"April 01, 2021"}}},{"node":{"fields":{"slug":"/2021-03-30--atlanta-braves-2021-preview/"},"frontmatter":{"title":"MLB2021シーズンプレビュー - Atlanta Braves編","date":"March 30, 2021"}}}]}},"pageContext":{"tag":"MLB"}},
+    "result": {"data":{"allMarkdownRemark":{"totalCount":3,"edges":[{"node":{"fields":{"slug":"/2022-11-08--nl-cy-prediction/"},"frontmatter":{"title":"セイバー指標で見る2022NL Cy Young賞見通し","date":"November 08, 2022"}}},{"node":{"fields":{"slug":"/2021-04-01--los-angeles-dodgers-2021-preview/"},"frontmatter":{"title":"MLB2021シーズンプレビュー - Los Angeles Dodgers編","date":"April 01, 2021"}}},{"node":{"fields":{"slug":"/2021-03-30--atlanta-braves-2021-preview/"},"frontmatter":{"title":"MLB2021シーズンプレビュー - Atlanta Braves編","date":"March 30, 2021"}}}]}},"pageContext":{"tag":"MLB"}},
     "staticQueryHashes": ["2478211480"]}
