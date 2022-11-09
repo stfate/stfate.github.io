@@ -5,7 +5,7 @@ date: "2022-11-08"
 img: "cover.png"
 author: "stfate"
 description: ""
-tags: []
+tags: [MLB, Braves, Dodgers, Marlins]
 ---
 
 <style type="text/css">
@@ -100,5 +100,5 @@ Alcantaraは速球の球速と総合力という感じ。
 
 直感的な印象と同様に、「まぁAlcantaraが優勢だよね」という気はします。
 総合的に優れていると上でも書きましたが、bWARとfWARで大きく差をつけてトップというのは大きい。
-ただMax Friedも指標面では善戦してるのではと思いますね。
+ただMax FriedもFIPなどホームラン/四球/奪三振ベースの指標面では善戦してるのではと思いますね。
 ATLファンとしてはCYには届かなくともなるべく多くの票を獲得してほしい。
