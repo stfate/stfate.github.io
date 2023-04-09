@@ -1,5 +1,1 @@
-{
-    "componentChunkName": "component---src-templates-tags-js",
-    "path": "/tags/marlins/",
-    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2022-11-08--nl-cy-prediction/"},"frontmatter":{"title":"セイバー指標で見る2022NL Cy Young賞見通し","date":"November 08, 2022"}}}]}},"pageContext":{"tag":"Marlins"}},
-    "staticQueryHashes": ["2812774942"]}
+{"componentChunkName":"component---src-templates-tags-js","path":"/tags/marlins/","result":{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/2022-11-08--nl-cy-prediction/"},"frontmatter":{"title":"セイバー指標で見る2022NL Cy Young賞見通し","date":"November 08, 2022"}}}]}},"pageContext":{"tag":"Marlins"}},"staticQueryHashes":["2812774942"]}
