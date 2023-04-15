@@ -25,5 +25,7 @@ if __name__ == "__main__":
         dst_fn = dst_dirpath / "twitter_card.png"
         shutil.copy(src_fn, dst_fn)
 
-    cmd = f"rsync -ahv {dst_root} stfate@tyrfing.site:/var/www/html/assets/"
+    # cmd = f"rsync -ahv {dst_root} stfate@tyrfing.site:/var/www/html/assets/"
+    # subprocess.run(cmd.split())
+    cmd = f"gsutil cp -r {dst_root} gs://stfate-images"
     subprocess.run(cmd.split())
