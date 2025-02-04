@@ -1,6 +1,6 @@
 ---
 title: "2025-02-04"
-path: "/posts/2025-02-04--title"
+path: "/posts/2025-02-04--daily"
 date: "2025-02-04"
 img: "no-image.png"
 author: "stfate"
@@ -21,4 +21,5 @@ th,tr,td {line-height: 1.0em !important;}
 -->
 </style>
 
-さむいですね
+さむいですね。
+鈴代紗弓さん、お誕生日おめでとうございます。

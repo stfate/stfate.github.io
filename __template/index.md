@@ -1,7 +1,7 @@
 ---
 title: "title"
-path: "/posts/2021-xx-xx--title"
-date: "2021-xx-xx"
+path: "/posts/2025-xx-xx--title"
+date: "2025-xx-xx"
 img: "no-image.png"
 author: "stfate"
 description: ""
@@ -21,38 +21,3 @@ th,tr,td {line-height: 1.0em !important;}
 -->
 </style>
 
-<section>
-    <div class="album_cover">
-        <a href="http://stfate.net"><img src="./no-image.png"></a>
-    </div>
-    <div class="album_info">
-        <div class="album_meta">
-            <table>
-                <tbody>
-                    <tr><td>Artist</td><td>artist</td></td>
-                    <tr><td>Title</td><td>album_title</td></td>
-                    <tr><td>Label</td><td>label</td></td>
-                    <tr><td>Release Date</td><td>2021/xx/xx</td></td>
-                    <tr><td>Genre</td><td>none</td></td>
-                    <tr><td>Country</td><td>Japan</td></td>
-                </tbody>
-            </table>
-        </div>
-        <div class="tracklist">
-            <table>
-                <thead>
-                    <tr><th>Tracklist</th></tr>
-                </thead>
-                <tbody>
-                    <tr><td>01</td><td>track_title</td></tr>
-                </tbody>
-            </table>
-        </div>
-    </div>
-</section>
-
-<figure id="cover">
-    <a `href="stfate.net"`>
-        <img src="no-image.png" title="title"></img>
-    </a>
-</figure>
