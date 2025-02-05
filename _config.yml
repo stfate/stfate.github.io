@@ -2,7 +2,8 @@ title: Celestial Symphony
 description: ふぇいとの駄文垂れ流し場
 baseurl: /
 url: https://stfate.net
-remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 # remote_theme: jekyll/minima
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one

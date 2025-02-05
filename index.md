@@ -2,7 +2,6 @@
 layout: default
 ---
 
-test
 
 {% for post in site.posts %}
   <article>
