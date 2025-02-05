@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: "post"
 title: "[ChatGPT生成記事] 2023.04.08 ATL-SD感想"
 path: "/posts/2023-04-08--braves-vs-padres-impression"
 date: "2023-04-08"
