@@ -142,7 +142,7 @@ author:
 footer:
   links:
     - label: "Misskey"
-      icon: "fab fa-fw fa-misskey"
+      icon: "fab fa-fw fa-house"
       url: "https://stfate.site"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
