@@ -141,9 +141,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "Misskey"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://stfate.site"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
