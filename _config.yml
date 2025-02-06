@@ -114,9 +114,9 @@ analytics:
 # Site Author
 author:
   name             : "ふぇいと"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "otaku"
-  location         : "Somewhere"
+  avatar           : "/assets/images/ceres_blue192.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "ASMRを聴いて寝る技術者"
+  location         : "地球"
   email            :
   links:
     - label: "Email"
