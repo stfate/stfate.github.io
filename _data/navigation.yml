@@ -2,8 +2,10 @@
 main:
   - title: "Celeskey"
     url: https://stfate.site
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "#MLB"
+    url: https://stfate.net/tags/#mlb
+  - title: "#ASMR"
+    url: https://stfate.net/tags/#asmr
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
