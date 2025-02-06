@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: home
+author_profile: true
 ---
 
 
-{% for post in site.posts %}
+<!-- {% for post in site.posts %}
   <article>
     <h2>
       <a href="{{ post.url }}">
@@ -13,4 +14,4 @@ layout: default
     <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
     {{ post.content }}
   </article>
-{% endfor %}
+{% endfor %} -->
