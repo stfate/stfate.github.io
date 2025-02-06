@@ -5,6 +5,7 @@ date: "2023-04-08"
 img: "no-image.png"
 author: "stfate"
 description: ""
+category: "MLB"
 tags: [MLB, Braves]
 ---
 
