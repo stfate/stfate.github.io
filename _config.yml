@@ -324,3 +324,15 @@ defaults:
       comments: # true
       share: false
       related: false
+  # _tags
+  - scope:
+      path: ""
+      type: tag
+    values:
+      author_profile: true
+  # _categories
+  - scope:
+      path: ""
+      type: category
+    values:
+      comments: false
