@@ -4,6 +4,20 @@ layout: archive
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
+{% if site.posts.size > 0 %}
+  {% assign latest_post = site.posts.first %}
+  <div class="latest-post">
+    <h4><a href="{{ latest_post.url | relative_url }}">{{ latest_post.title }}</a></h4>
+    <p class="page__meta">
+      <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ latest_post.date | date: "%Y年%m月%d日 %H:%M" }}
+    </p>
+    <div class="latest-post-content">
+      {{ latest_post.content }}
+    </div>
+  </div>
+  <hr>
+{% endif %}
+
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
