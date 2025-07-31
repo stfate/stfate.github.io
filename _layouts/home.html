@@ -6,62 +6,17 @@ pagination:
 
 {{ content }}
 
-<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-<!-- jekyll-paginate-v2を使用してページネーション付きの記事表示 -->
-{% for post in paginator.posts %}
-  <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <div class="page__inner-wrap">
-      <header>
-        <h2 class="page__title" itemprop="headline">
-          <a href="{{ post.url | relative_url }}" itemprop="url">{{ post.title }}</a>
-        </h2>
-        <p class="page__meta">
-          <i class="far fa-calendar-alt" aria-hidden="true"></i> {{ post.date | date: "%Y年%m月%d日 %H:%M" }}
-          {% if post.tags.size > 0 %}
-            {% for tag in post.tags %}
-              <span class="page__taxonomy-item">
-                <a href="{{ '/tags/#' | append: tag | relative_url }}" class="page__taxonomy-item-tag" rel="tag">#{{ tag }}</a>
-              </span>
-            {% endfor %}
-          {% endif %}
-        </p>
-      </header>
-      
-      <section class="page__content" itemprop="text">
-        {{ post.content }}
-      </section>
-    </div>
-  </article>
-  
-  {% unless forloop.last %}<hr>{% endunless %}
-{% endfor %}
-
-<!-- jekyll-paginate-v2のページネーションリンク -->
-{% if paginator.total_pages > 1 %}
-<nav class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination--pager" title="{{ site.data.ui-text[site.locale].pagination_previous | default: 'Previous' }}">{{ site.data.ui-text[site.locale].pagination_previous | default: 'Previous' }}</a>
-  {% else %}
-    <span class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: 'Previous' }}</span>
-  {% endif %}
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-      <span class="pagination--pager current">{{ page }}</span>
-    {% elsif page == 1 %}
-      <a href="{{ '/' | relative_url }}" class="pagination--pager">{{ page }}</a>
-    {% else %}
-      <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="pagination--pager">{{ page }}</a>
-    {% endif %}
-  {% endfor %}
-
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}" class="pagination--pager" title="{{ site.data.ui-text[site.locale].pagination_next | default: 'Next' }}">{{ site.data.ui-text[site.locale].pagination_next | default: 'Next' }}</a>
-  {% else %}
-    <span class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: 'Next' }}</span>
-  {% endif %}
-</nav>
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
 {% endif %}
 
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html entries=posts type=entries_layout %}
+</div>
 
+{% include paginator.html %}
