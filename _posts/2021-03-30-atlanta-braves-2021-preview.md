@@ -7,18 +7,6 @@ author: "stfate"
 description: ""
 tags: [やきう, MLB, Braves, セイバーメトリクス]
 ---
-<style type="text/css">
-<!--
-p {white-space: pre-wrap};
--->
-</style>
-
-`<re-img
-    src="cover.png"
-    title="Atlanta Braves"
-    href="https://www.mlb.com/braves"
-    >`
-`</re-img>`
 
 MLBが4/1からついに開幕しますね。
 ということで、贔屓2球団の今シーズンの展望を書いてみます。

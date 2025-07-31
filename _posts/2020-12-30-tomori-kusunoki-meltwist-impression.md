@@ -7,11 +7,6 @@ author: "stfate"
 description: ""
 tags: [Music, 楠木ともり, MELTWIST, Live, ライブ感想]
 ---
-<style type="text/css">
-<!--
-p {white-space: pre-wrap};
--->
-</style>
 
 
 <table>

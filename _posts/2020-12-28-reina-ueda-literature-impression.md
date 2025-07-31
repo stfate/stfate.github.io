@@ -6,11 +6,6 @@ img: "cover.png"
 author: "stfate"
 tags: [Music, 音源感想, 上田麗奈, リテラチュア, 魔女の旅々]
 ---
-<style type="text/css">
-<!--
-p {white-space: pre-wrap};
--->
-</style>
 
 
 **※魔女の旅々 原作5巻くらいまでのネタバレを含みます**

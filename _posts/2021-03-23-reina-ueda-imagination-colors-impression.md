@@ -8,12 +8,6 @@ description: ""
 tags: [Music, 上田麗奈, Imagination Colors, live, ライブ感想, 声優アーティスト]
 ---
 
-<style type="text/css">
-<!--
-p {white-space: pre-wrap};
--->
-</style>
-
 ライヴで体感する“感情の歌”は、やはり凄かった。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">上田麗奈 1st LIVE Imagination Colors<br><br>誠にありがとうございました！<br>夏に向けてアルバム制作中💿✨<br>これからもよろしくお願いします！<br><br>【アーカイブ配信】3/21(日)23:59まで<a href="https://t.co/HR6P5vXOrC">https://t.co/HR6P5vXOrC</a><a href="https://twitter.com/hashtag/%E4%B8%8A%E7%94%B0%E9%BA%97%E5%A5%88?src=hash&ref_src=twsrc%5Etfw">#上田麗奈</a> <a href="https://twitter.com/hashtag/ImaginationColors?src=hash&ref_src=twsrc%5Etfw">#ImaginationColors</a> <a href="https://t.co/pFQtYimpNd">pic.twitter.com/pFQtYimpNd</a></p>— 上田麗奈 Artist official (@ReinaUeda_Staff) <a href="https://twitter.com/ReinaUeda_Staff/status/1371045430398574592?ref_src=twsrc%5Etfw">March 14, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

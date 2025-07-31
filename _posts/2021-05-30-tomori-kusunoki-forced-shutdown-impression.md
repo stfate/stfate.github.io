@@ -7,11 +7,6 @@ author: "stfate"
 description: "楠木ともり『Forced Shutdown』インプレッション"
 tags: [Music, 音源感想, 楠木ともり, Rock]
 ---
-<style type="text/css">
-<!--
-p {white-space: pre-wrap};
--->
-</style>
 
 <table>
     <thead>

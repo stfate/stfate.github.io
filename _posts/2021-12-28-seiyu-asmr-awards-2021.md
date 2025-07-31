@@ -7,18 +7,6 @@ author: "stfate"
 description: ""
 tags: [声優, ASMR, バイノーラル, DLsite, 上田麗奈, 高橋李依, 前田佳織里, 小原好美, 田中美海, 花守ゆみり, 近藤玲奈]
 ---
-<style type="text/css">
-<!--
-p {white-space: pre-wrap}
-section {width:100%; float: left;}
-div.album_cover {float: left; width:50%;}
-div.album_info {float: left; width:50%; padding-left:10px;}
-div.album_meta {padding-bottom: 10px;}
-div.tracklist {padding-top: 10px;}
-table,tr,th,td {border: none;}
-th,tr,td {line-height: 1.0em !important;}
--->
-</style>
 
 皆さん！**今日も女性声優に耳元で囁かれてますか！！！**(最悪のイントロ)
 2021年もいろいろありましたが、大きなイベントとして「プロの声優によるASMR作品の定着」が挙げられると思います。

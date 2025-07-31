@@ -7,11 +7,6 @@ author: "stfate"
 description: ""
 tags: [live, ライブ感, online live]
 ---
-<style type="text/css">
-<!--
-p {white-space: pre-wrap};
--->
-</style>
 
 オンライン/オフラインライヴを観て感じた「ライヴ感」に関する考察を書き残しておくエントリです。
 ほぼ自分用。

@@ -8,19 +8,6 @@ description: ""
 tags: [MLB, Braves, Dodgers, Marlins]
 ---
 
-<style type="text/css">
-<!--
-p {white-space: pre-wrap}
-section {width:100%; float: left;}
-div.album_cover {float: left; width:50%;}
-div.album_info {float: left; width:50%; padding-left:10px;}
-div.album_meta {padding-bottom: 10px;}
-div.tracklist {padding-top: 10px;}
-table,tr,th,td {border: none;}
-th,tr,td {line-height: 1.0em !important;}
--->
-</style>
-
 ワールドシリーズも終わり、オフシーズンに本格突入しましたが、
 各Awardsのファイナリストが発表されましたね。
 この記事ではNational LeagueのCy Young賞の展望をセイバーメトリクス系指標を参照しながら見ていこうと思います。

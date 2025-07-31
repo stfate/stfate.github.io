@@ -7,11 +7,6 @@ author: "stfate"
 description: ""
 tags: [やきう, MLB, Dodgers, セイバーメトリクス]
 ---
-<style type="text/css">
-<!--
-p {white-space: pre-wrap};
--->
-</style>
 
 MLB2021シーズンプレビュー、Los Angeles Dodgers編です。
 ※下記に記載している各種指標は

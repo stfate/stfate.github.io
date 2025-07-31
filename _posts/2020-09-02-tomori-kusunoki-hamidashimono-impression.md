@@ -7,11 +7,6 @@ author: "stfate"
 description: "楠木ともり 1stEP「ハミダシモノ」の感想記事"
 tags: [Music, 音源感想, 楠木ともり, 重永亮介]
 ---
-<style type="text/css">
-<!--
-p {white-space: pre-wrap};
--->
-</style>
 
 
 <table>

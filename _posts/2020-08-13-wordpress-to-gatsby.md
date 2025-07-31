@@ -6,11 +6,6 @@ img: "cover.png"
 author: "stfate"
 tags: ["tech", "web技術", "gatsby"]
 ---
-<style type="text/css">
-<!--
-p {white-space: pre-wrap};
--->
-</style>
 
 
 当ブログは長らくWordpressで構築してきましたが，時代も令和になりWeb周りの情勢も大きく変わった中で不満点もいろいろ出てきていました．
